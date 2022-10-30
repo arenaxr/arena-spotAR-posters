@@ -1,0 +1,67 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: ARENA_spotAR_8_5_11_12cm.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: centimeters
+Artboard Dimensions: 27.94 cm x 21.59 cm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Neue Haas Grotesk Display Pro 75 Bold (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Helvetica Light (TrueType)
+Helvetica (TrueType)
+Helvetica Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/anthonypan/Desktop/arena xr/April Tag Posters/ARENA_spotAR_12cm/Links/Group 3.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 441K, 336 by 336 pixels
+Dimensions: 170.079 by 170.079 points 
+Resolution: 142.24 by 142.24 pixels per inch
+
+
+/Users/anthonypan/Desktop/arena xr/April Tag Posters/ARENA_spotAR_12cm/Links/xr-logo-v8 3.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1236K, 731 by 433 pixels
+Dimensions: 65.746 by 38.944 points 
+Resolution: 800.532 by 800.532 pixels per inch
+
+
+/Users/anthonypan/Desktop/arena xr/April Tag Posters/ARENA_spotAR_12cm/Links/april tag 0.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2479K, 915 by 925 pixels
+Dimensions: 425.197 by 425.197 points 
+Resolution: 154.94 by 156.633 pixels per inch

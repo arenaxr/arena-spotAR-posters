@@ -1,0 +1,8 @@
+Best Free QR Code Generator:
+https://www.qrstuff.com/
+
+Add this to link to make SpotAR:
+?armode=1&noreticle=1&auth=anonymous
+
+Example:
+https://arenaxr.org/arena?armode=1&noreticle=1&auth=anonymous
